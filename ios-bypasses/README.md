@@ -1,2 +1,0 @@
-# ios-bypasses
-fuck screentime
