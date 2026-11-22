@@ -12,8 +12,6 @@ Headless, plug-and-play iOS GPS location simulation running on a **Raspberry Pi 
 ├── systemd/
 │   ├── tunneld.service        # RemoteXPC Wi-Fi tunnel service (with wlan0 readiness guard)
 │   └── autospoof.service      # Auto-spoofer watcher service
-├── .gitignore                 # Excludes sensitive Apple pairing .plist files and disk images
-├── LICENSE
 └── README.md
 ```
 
